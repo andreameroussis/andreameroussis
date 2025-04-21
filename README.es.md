@@ -1,3 +1,8 @@
+<div align="right">
+  <a href="README.md">English</a> | <a href="README.es.md">Español</a>
+</div>
+
+
 # 👩‍💻 Andrea Meroussis Puglisevich
 
 **Analista de Datos Freelance | Business Intelligence | Power BI | SQL | Automatización**
