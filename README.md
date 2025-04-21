@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👩‍💻 Andrea Meroussis Puglisevich
 
-<!--
-**andreameroussis/andreameroussis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Analista de Datos Freelance | Business Intelligence | Power BI | SQL | Automatización**
 
-Here are some ideas to get you started:
+¡Hola! Soy Andrea, analista de datos especializada en transformar datos en decisiones estratégicas. Me enfoco en:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Power BI**: Desarrollo de dashboards interactivos y visualizaciones impactantes.
+- **SQL**: Consultas optimizadas y modelado de datos eficiente.
+- **Automatización**: Optimización de procesos para mejorar la productividad.
+- **Business Intelligence**: Análisis y visualización de datos para impulsar decisiones informadas.
+
+Estoy en constante aprendizaje y me apasiona compartir conocimientos sobre análisis de datos y BI.
+
+## 🚀 Proyectos Destacados
+
+- **Dashboard de Ventas en Power BI**: Visualización de KPIs clave para seguimiento de ventas y rendimiento.
+- **Automatización de Reportes**: Implementación de procesos automatizados para generación de informes periódicos.
+- **Análisis de Datos con SQL**: Consultas complejas para extracción y análisis de datos relevantes.
+
+*Próximamente subiré estos proyectos a este repositorio.*
+
+## 📫 Conecta conmigo
+
+- [LinkedIn](https://www.linkedin.com/in/andreameroussis/)
