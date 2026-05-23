@@ -2,27 +2,55 @@
   <a href="README.md">English</a> | <a href="README.es.md">Español</a>
 </div>
 
-
 # 👩‍💻 Andrea Meroussis Puglisevich
 
-**Analista de Datos Freelance | Business Intelligence | Power BI | SQL | Automatización**
+Profesional orientada a automatización y operaciones de datos, enfocada en optimización de procesos, reportería operativa y automatización de flujos de información.
 
-¡Hola! Soy Andrea, analista de datos especializada en transformar datos en decisiones estratégicas. Me enfoco en:
+Actualmente trabajo en entornos operativos de alta demanda dentro del sector agroindustrial, desarrollando soluciones que mejoran la eficiencia, reducen trabajo manual y aumentan la confiabilidad de la información mediante automatización y herramientas de reporting.
 
-- **Power BI**: Desarrollo de dashboards interactivos y visualizaciones impactantes.
-- **SQL**: Consultas optimizadas y modelado de datos eficiente.
-- **Automatización**: Optimización de procesos para mejorar la productividad.
-- **Business Intelligence**: Análisis y visualización de datos para impulsar decisiones informadas.
+## 🔧 Áreas principales de enfoque
 
-Estoy en constante aprendizaje y me apasiona compartir conocimientos sobre análisis de datos y BI.
+- Operaciones de Datos
+- Automatización de Flujos
+- Reportería Operativa
+- ETL y Transformación de Datos
+- Power Platform
+- Business Intelligence
+- Optimización de Procesos
 
-## 🚀 Proyectos Destacados
+## 🛠️ Tecnologías
 
-- **Dashboard de Ventas en Power BI**: Visualización de KPIs clave para seguimiento de ventas y rendimiento.
-- **Automatización de Reportes**: Implementación de procesos automatizados para generación de informes periódicos.
-- **Análisis de Datos con SQL**: Consultas complejas para extracción y análisis de datos relevantes.
+- Power BI
+- Power Query
+- Power Automate
+- SQL
+- Excel
+- SharePoint
+- APIs e Integración de Datos
 
-*Próximamente subiré estos proyectos a este repositorio.*
+## 🚀 Ruta actual de aprendizaje
+
+Actualmente fortaleciendo habilidades en:
+
+- SQL avanzado
+- Python para operaciones de datos
+- Fundamentos de Data Engineering
+- Automatización de workflows
+- Ecosistema de datos Microsoft
+
+## 📌 Proyectos destacados
+
+### Operational Workforce Data Pipeline *(en progreso)*
+
+Flujo automatizado de reportería operativa inspirado en procesos reales de negocio relacionados con ingestión de archivos, transformación de datos, validación y automatización de reportes.
+
+### Video Game Sales Dashboard
+
+Dashboard interactivo en Power BI para análisis de ventas globales de videojuegos y visualización de KPIs.
+
+## 🎯 Intereses profesionales
+
+Automatización • Data Operations • ETL • Analítica Operacional • Data Engineering
 
 ## 📫 Conecta conmigo
 
