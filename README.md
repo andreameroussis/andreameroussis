@@ -4,24 +4,53 @@
 
 # 👩‍💻 Andrea Meroussis Puglisevich
 
-**Freelance Data Analyst | Business Intelligence | Power BI | SQL | Automation**
+Automation & Data Operations Analyst focused on process optimization, operational reporting and data workflow automation.
 
-Hi! I'm Andrea, a data analyst passionate about transforming data into actionable insights. I focus on:
+Currently working in high-demand operational environments within the agro-industrial sector, building solutions that improve efficiency, reduce manual work and increase data reliability through automation and reporting tools.
 
-- **Power BI**: Building interactive dashboards and impactful visualizations.
-- **SQL**: Writing optimized queries and building efficient data models.
-- **Automation**: Streamlining workflows and improving productivity.
-- **Business Intelligence**: Delivering insights that support smart business decisions.
+## 🔧 Main Areas of Focus
 
-I'm constantly learning and love sharing what I discover about data analysis and BI.
+- Data Operations
+- Workflow Automation
+- Operational Reporting
+- ETL & Data Transformation
+- Power Platform
+- Business Intelligence
+- Process Optimization
 
-## 🚀 Featured Projects
+## 🛠️ Technologies
 
-- **Sales Dashboard in Power BI**: KPIs for tracking sales and performance.
-- **Automated Reports**: Designed processes to automatically generate recurring reports.
-- **SQL Data Analysis**: Complex queries to extract and analyze relevant data.
+- Power BI
+- Power Query
+- Power Automate
+- SQL
+- Excel
+- SharePoint
+- APIs & Data Integration
 
-*More projects coming soon.*
+## 🚀 Current Learning Path
+
+Currently strengthening skills in:
+
+- Advanced SQL
+- Python for Data Operations
+- Data Engineering Fundamentals
+- Automation Workflows
+- Microsoft Data Stack
+
+## 📌 Featured Projects
+
+### Operational Workforce Data Pipeline *(in progress)*
+
+Automated operational reporting workflow inspired by real-world business processes involving file ingestion, data transformation, validation and reporting automation.
+
+### Video Game Sales Dashboard
+
+Interactive Power BI dashboard for global video game sales analysis and KPI visualization.
+
+## 🎯 Professional Interests
+
+Automation • Data Operations • ETL • Operational Analytics • Data Engineering
 
 ## 📫 Connect with me
 
