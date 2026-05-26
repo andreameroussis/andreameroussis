@@ -40,9 +40,9 @@ Actualmente fortaleciendo habilidades en:
 
 ## 📌 Proyectos destacados
 
-### Operational Workforce Data Pipeline *(en progreso)*
+### Operational Workforce Data Pipeline 
 
-Flujo automatizado de reportería operativa inspirado en procesos reales de negocio relacionados con ingestión de archivos, transformación de datos, validación y automatización de reportes.
+Proyecto integral de analítica operativa que combina procesos ETL en Python, validación de datos y reportería ejecutiva en Power BI.
 
 ### Video Game Sales Dashboard
 
