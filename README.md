@@ -40,9 +40,9 @@ Currently strengthening skills in:
 
 ## 📌 Featured Projects
 
-### Operational Workforce Data Pipeline *(in progress)*
+### Operational Workforce Data Pipeline 
 
-Automated operational reporting workflow inspired by real-world business processes involving file ingestion, data transformation, validation and reporting automation.
+End-to-end operational analytics pipeline combining Python ETL workflows, data validation processes and Power BI executive reporting.
 
 ### Video Game Sales Dashboard
 
